@@ -1,0 +1,1 @@
+Student1:Symptom:3Interest1:A1Interest2:B1Interest3:C1
